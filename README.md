@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=f7d488&height=120&text=I%20always%20get%20things%20done!&animation=twinkling&fontColor=9d3830&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 언제나 그렇듯 해내는 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 언제나 그렇듯 해내는 사람</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 어제보다 나은 오늘, 오늘보다 나은 내일을 고민하는 이에스더 입니다. </div> 
     </div>
     <div style="text-align: left;">
