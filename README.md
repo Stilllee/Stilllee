@@ -42,8 +42,14 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Stilllee&bg_color=180,243455,00000000&title_color=fefcf0&text_color=fefcf0"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stilllee&layout=compact&bg_color=180,243455,00000000&title_color=fefcf0&text_color=fefcf0"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+        <div align="center"> 
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Stilllee&bg_color=180,243455,00000000&title_color=fefcf0&text_color=fefcf0" />
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stilllee&layout=compact&bg_color=180,243455,00000000&title_color=fefcf0&text_color=fefcf0" />
+    </div>
+</div>
     </div>
     
