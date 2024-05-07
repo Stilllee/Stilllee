@@ -27,7 +27,7 @@
   <h3 align='center'>Contact</h3>
   <p align="center">
     <a href="mailto:orodae@gmail.com">
-     <img src="https://skillicons.dev/icons?i=gmail,linkedin" />
+     <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
   </p>
 </p>
