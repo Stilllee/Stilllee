@@ -9,7 +9,7 @@
   <section align="center" aria-label="자기소개">
     <p align="center">
       실패와 성공 속에서 배우며, <br /> 
-      <strong>스스로 알의 껍질을 깨나가는 개발자</strong> 🐣
+      <strong>스스로 알의 껍질을 깨어나가는 개발자</strong> 🐣
     </p>
   </section>
 </main>
