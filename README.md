@@ -41,15 +41,3 @@
     <a href="mailto:orodae@gmail.com">
      <img src="https://skillicons.dev/icons?i=gmail" />
 </section>
-
-<br />
-
-<section align="center" aria-label="깃허브 커밋 동물 농장">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/Stilllee"
-      width="600"
-      height="300"
-    />
-  </a>
-</section>
