@@ -28,11 +28,3 @@
     </a>
   </div>
 </section>
-
-<br>
-
-<section align="center" aria-label="연락처">
-  <h3 align="center">Contact</h3>
-    <a href="mailto:orodae@gmail.com">
-     <img src="https://skillicons.dev/icons?i=gmail" />
-</section>
